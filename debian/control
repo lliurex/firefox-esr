@@ -1,0 +1,14 @@
+Source: firefox-esr
+Section: devel
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Build-Depends: llxsrchelper,debhelper (>= 7.0)
+Standards-Version: 3.9.3
+
+Package: firefox-esr
+Architecture: any
+Multi-Arch: same
+Depends: ${misc:Depends}
+Description: Firefox ESR release for LliureX
+ - Firefox ESR  release for GVA and other enterprise
+   and slow development cycles.

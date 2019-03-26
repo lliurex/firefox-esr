@@ -1,0 +1,27 @@
+#!/usr/bin/make -f
+#include /usr/share/cdbs/1/rules/debhelper.mk
+%:
+	dh $@  --with llxsrc 
+
+override_dh_install: custom-files
+
+	dh_install
+
+override_dh_shlibdeps: 
+	
+	echo "Nothing to do here"
+
+
+# Build architecture-dependent files here.
+custom-files:
+
+ifeq ($(DEB_BUILD_ARCH), i386)
+	cp -r firefox-esr-i386/* ./firefox-esr.install/opt/firefox-esr
+	cp -r firefox-common/* ./firefox-esr.install/opt/firefox-esr
+endif
+
+ifeq ($(DEB_BUILD_ARCH), amd64)
+	cp -r firefox-esr-amd64/* ./firefox-esr.install/opt/firefox-esr
+	cp -r firefox-common/* ./firefox-esr.install/opt/firefox-esr
+endif
+
