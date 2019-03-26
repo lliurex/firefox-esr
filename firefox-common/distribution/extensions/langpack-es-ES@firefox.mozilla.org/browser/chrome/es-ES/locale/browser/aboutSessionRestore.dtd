@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle "Restaurar sesión">
+<!ENTITY restorepage.errorTitle2 "Lo sentimos. Tenemos problema para recuperar sus páginas.">
+<!ENTITY restorepage.problemDesc2 "Tenemos problemas para restaurar su última sesión de navegación. Seleccione Restaurar sesión para volver a intentarlo.">
+<!ENTITY restorepage.tryThis2 "¿Todavía no puede restaurar su sesión? A veces una pestaña causa el problema. Vea las pestañas anteriores, elimine la marca de las pestañas que no necesita recuperar, y luego restaure.">
+<!ENTITY restorepage.hideTabs "Ocultar pestañas anteriores">
+<!ENTITY restorepage.showTabs "Ver pestañas anteriores">
+<!ENTITY restorepage.tryagainButton2 "Restaurar sesión">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2 "Iniciar sesión nueva">
+<!ENTITY restorepage.close.access2 "N">
+<!ENTITY restorepage.restoreHeader "Restaurar">
+<!ENTITY restorepage.listHeader "Ventanas y pestañas">
+<!ENTITY restorepage.windowLabel "Ventana &#037;S">
+<!ENTITY welcomeback2.restoreButton "¡Vamos!">
+<!ENTITY welcomeback2.restoreButton.access "V">
+<!ENTITY welcomeback2.tabtitle "¡Éxito!">
+<!ENTITY welcomeback2.pageTitle "¡Éxito!">
+<!ENTITY welcomeback2.pageInfo1 "&brandShortName; está listo para continuar.">
+<!ENTITY welcomeback2.restoreAll.label "Restaurar todas las ventanas y pestañas">
+<!ENTITY welcomeback2.restoreSome.label "Restaurar solo las que desee">
+<!ENTITY welcomeback2.beforelink.pageInfo2 "Sus complementos y personalizaciones han sido eliminados y la configuración de su navegador se ha restaurado a los valores predeterminado. Si esto no arregla su problema, ">
+<!ENTITY welcomeback2.afterlink.pageInfo2 "">
+<!ENTITY welcomeback2.link.pageInfo2 "lea más sobre lo que puede hacer.">
+
+<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.closeButton    "Close">
+
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Well, this is embarrassing.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; is having trouble recovering your windows and tabs. This is usually caused by a recently opened web page.">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.restoreSome    "Removing one or more tabs that you think may be causing the problem">
+<!ENTITY restorepage.startNew       "Starting an entirely new browsing session">
+<!ENTITY restorepage.tryThis        "You can try:">
+
+<!ENTITY restorepage.tryagainButton "Restore">
+
+<!ENTITY welcomeback2.label.restoreAll  "Restore all Windows and Tabs">
+<!ENTITY welcomeback2.label.restoreSome "Restore only the ones you want">

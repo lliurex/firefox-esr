@@ -1,0 +1,10 @@
+locale branding ca-valencia ca-valencia/locale/branding/
+locale browser ca-valencia ca-valencia/locale/browser/
+locale browser-region ca-valencia ca-valencia/locale/browser-region/
+locale devtools ca-valencia ca-valencia/locale/ca-valencia/devtools/client/
+locale devtools-shared ca-valencia ca-valencia/locale/ca-valencia/devtools/shared/
+locale pdf.js ca-valencia ca-valencia/locale/pdfviewer/
+override chrome://global/locale/appstrings.properties chrome://browser/locale/appstrings.properties
+override chrome://global/locale/netError.dtd chrome://browser/locale/netError.dtd
+override chrome://mozapps/locale/downloads/settingsChange.dtd chrome://browser/locale/downloads/settingsChange.dtd
+resource search-plugins chrome://browser/locale/searchplugins/

@@ -1,0 +1,108 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY engine.bookmarks.label "Marcadores">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2 "Pestañas abiertas">
+<!ENTITY engine.tabs.accesskey "t">
+<!ENTITY engine.history.label "Historial">
+<!ENTITY engine.history.accesskey "r">
+<!ENTITY engine.logins.label "Inicios de sesión">
+<!ENTITY engine.logins.accesskey "I">
+<!ENTITY engine.prefs.label "Preferencias">
+<!ENTITY engine.prefs.accesskey "S">
+<!ENTITY engine.addons.label "Complementos">
+<!ENTITY engine.addons.accesskey "C">
+<!ENTITY engine.addresses.label "Direcciones">
+<!ENTITY engine.addresses.accesskey "D">
+<!ENTITY engine.creditcards.label "Tarjetas de crédito">
+<!ENTITY engine.creditcards.accesskey "T">
+<!ENTITY fxaSyncDeviceName.label "Nombre del dispositivo">
+<!ENTITY changeSyncDeviceName2.label "Cambiar nombre del dispositivo…">
+<!ENTITY changeSyncDeviceName2.accesskey "a">
+<!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "e">
+<!ENTITY saveChangeSyncDeviceName.label "Guardar">
+<!ENTITY saveChangeSyncDeviceName.accesskey "u">
+<!ENTITY prefs.tosLink.label "Términos del Servicio">
+<!ENTITY fxaPrivacyNotice.link.label "Aviso sobre privacidad">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "no está verificado.">
+<!ENTITY signedInLoginFailure.beforename.label "Inicie sesión para reconectar">
+<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY notSignedIn.label "No ha iniciado sesión.">
+<!ENTITY signIn.label "Conectarse">
+<!ENTITY signIn.accesskey "n">
+<!ENTITY profilePicture.tooltip "Cambiar imagen del perfil">
+<!ENTITY verifiedManage.label "Administrar cuenta">
+<!ENTITY verifiedManage.accesskey "A">
+<!ENTITY disconnect3.label "Desconectar…">
+<!ENTITY disconnect3.accesskey "D">
+<!ENTITY verify.label "Verificar mensaje">
+<!ENTITY verify.accesskey "V">
+<!ENTITY forget.label "Olvide este mensaje">
+<!ENTITY forget.accesskey "O">
+<!ENTITY signedOut.caption "Llévese la web con usted">
+<!ENTITY signedOut.description "Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.">
+<!ENTITY signedOut.accountBox.title "Conectar con una &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "¿No tiene una cuenta? Comience ahora">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Conectarse…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "C">
+<!ENTITY signedIn.settings.label "Configuración de Sync">
+<!ENTITY signedIn.settings.description "Elija qué sincronizar en sus dispositivos usando &brandShortName;.">
+<!ENTITY mobilePromo3.start "Descargar Firefox para ">
+<!ENTITY mobilePromo3.androidLink "Android">
+<!ENTITY mobilePromo3.iOSBefore " o ">
+<!ENTITY mobilePromo3.iOSLink "iOS">
+<!ENTITY mobilePromo3.end " para sincronizar con su dispositivo móvil.">
+
+<!ENTITY changePassword2.label        "Change Password…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
+<!ENTITY changeSyncDeviceName.label "Change Device Name…">
+<!ENTITY determiningAcctStatus.label     "Determining your account status…">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY disconnect.label            "Disconnect…">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY manageAccount.accesskey      "n">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY myRecoveryKey.label          "My Recovery Key">
+
+<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY resetPass.label              "Reset">
+<!ENTITY resetSync2.label             "Reset Sync…">
+<!ENTITY setupButton.accesskey      "S">
+
+
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+
+<!ENTITY signedIn.engines.label       "Sync across all devices">
+<!ENTITY signedOut.accountBox.create  "Create Account">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
+<!ENTITY signedOut.accountBox.signin  "Sign In">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+
+<!-- Device Settings -->
+<!ENTITY syncDeviceName.label       "Device Name:">
+
+<!ENTITY syncMy.label               "Sync My">
+<!ENTITY unlinkDevice.label           "Unlink This Device">
+
+<!-- The page shown when logged in... -->
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Update">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY welcome.createAccount.label "Create Account">
+
+<!ENTITY welcome.description "Access your tabs, bookmarks, passwords and more wherever you use &brandShortName;.">
+<!ENTITY welcome.signIn.label "Sign In">
+
+<!ENTITY welcome.useOldSync.label "Using an older version of Sync?">

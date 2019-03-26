@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>firefox-esr</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>Firefox ESR</name>
+<name xml:lang="ar">متصفح الويب فَيَرفُكْس</name>
+<name xml:lang="ast">Restolador web Firefox ESR</name>
+<name xml:lang="bn">ফায়ারফক্স ওয়েব ব্রাউজার</name>
+<name xml:lang="ca">Navegador web Firefox ESR</name>
+<name xml:lang="cs">Firefox ESR Webový prohlížeč</name>
+<name xml:lang="da">Firefox ESR - internetbrowser</name>
+<name xml:lang="el">Περιηγητής Firefox ESR</name>
+<name xml:lang="es">Navegador web Firefox ESR</name>
+<name xml:lang="et">Firefox ESRi veebibrauser</name>
+<name xml:lang="fa">مرورگر اینترنتی Firefox ESR</name>
+<name xml:lang="fi">Firefox ESR-selain</name>
+<name xml:lang="fr">Navigateur Web Firefox ESR</name>
+<name xml:lang="gl">Navegador web Firefox ESR</name>
+<name xml:lang="he">דפדפן האינטרנט Firefox ESR</name>
+<name xml:lang="hr">Firefox ESR web preglednik</name>
+<name xml:lang="hu">Firefox ESR webböngésző</name>
+<name xml:lang="it">Firefox ESR Browser Web</name>
+<name xml:lang="ja">Firefox ESR ウェブ・ブラウザ</name>
+<name xml:lang="ko">Firefox ESR 웹 브라우저</name>
+<name xml:lang="ku">Geroka torê Firefox ESR</name>
+<name xml:lang="lt">Firefox ESR interneto naršyklė</name>
+<name xml:lang="nb">Firefox ESR Nettleser</name>
+<name xml:lang="nl">Firefox ESR webbrowser</name>
+<name xml:lang="nn">Firefox ESR Nettlesar</name>
+<name xml:lang="no">Firefox ESR Nettleser</name>
+<name xml:lang="pl">Przeglądarka WWW Firefox ESR</name>
+<name xml:lang="pt">Firefox ESR Navegador Web</name>
+<name xml:lang="pt_BR">Navegador Web Firefox ESR</name>
+<name xml:lang="ro">Firefox ESR – Navigator Internet</name>
+<name xml:lang="ru">Веб-браузер Firefox ESR</name>
+<name xml:lang="sk">Firefox ESR - internetový prehliadač</name>
+<name xml:lang="sl">Firefox ESR spletni brskalnik</name>
+<name xml:lang="sv">Firefox ESR webbläsare</name>
+<name xml:lang="tr">Firefox ESR Web Tarayıcısı</name>
+<name xml:lang="ug">Firefox ESR توركۆرگۈ</name>
+<name xml:lang="uk">Веб-браузер Firefox ESR</name>
+<name xml:lang="vi">Trình duyệt web Firefox ESR</name>
+<name xml:lang="zh_CN">Firefox ESR 网络浏览器</name>
+<name xml:lang="zh_TW">Firefox ESR 網路瀏覽器</name>
+<summary>Browse the World Wide Web</summary>
+<summary xml:lang="ar">تصفح الشبكة العنكبوتية العالمية</summary>
+<summary xml:lang="ast">Restola pela Rede</summary>
+<summary xml:lang="bn">ইন্টারনেট ব্রাউজ করুন</summary>
+<summary xml:lang="ca">Navegueu per la web</summary>
+<summary xml:lang="cs">Prohlížení stránek World Wide Webu</summary>
+<summary xml:lang="da">Surf på internettet</summary>
+<summary xml:lang="de">Im Internet surfen</summary>
+<summary xml:lang="el">Μπορείτε να περιηγηθείτε στο διαδίκτυο (Web)</summary>
+<summary xml:lang="es">Navegue por la web</summary>
+<summary xml:lang="et">Lehitse veebi</summary>
+<summary xml:lang="fa">صفحات شبکه جهانی اینترنت را مرور نمایید</summary>
+<summary xml:lang="fi">Selaa Internetin WWW-sivuja</summary>
+<summary xml:lang="fr">Naviguer sur le Web</summary>
+<summary xml:lang="gl">Navegar pola rede</summary>
+<summary xml:lang="he">גלישה ברחבי האינטרנט</summary>
+<summary xml:lang="hr">Pretražite web</summary>
+<summary xml:lang="hu">A világháló böngészése</summary>
+<summary xml:lang="it">Esplora il web</summary>
+<summary xml:lang="ja">ウェブを閲覧します</summary>
+<summary xml:lang="ko">웹을 돌아 다닙니다</summary>
+<summary xml:lang="ku">Li torê bigere</summary>
+<summary xml:lang="lt">Naršykite internete</summary>
+<summary xml:lang="nb">Surf på nettet</summary>
+<summary xml:lang="nl">Verken het internet</summary>
+<summary xml:lang="nn">Surf på nettet</summary>
+<summary xml:lang="no">Surf på nettet</summary>
+<summary xml:lang="pl">Przeglądanie stron WWW </summary>
+<summary xml:lang="pt">Navegue na Internet</summary>
+<summary xml:lang="pt_BR">Navegue na Internet</summary>
+<summary xml:lang="ro">Navigați pe Internet</summary>
+<summary xml:lang="ru">Доступ в Интернет</summary>
+<summary xml:lang="sk">Prehliadanie internetu</summary>
+<summary xml:lang="sl">Brskajte po spletu</summary>
+<summary xml:lang="sv">Surfa på webben</summary>
+<summary xml:lang="tr">İnternet'te Gezinin</summary>
+<summary xml:lang="ug">دۇنيادىكى توربەتلەرنى كۆرگىلى بولىدۇ</summary>
+<summary xml:lang="uk">Перегляд сторінок Інтернету</summary>
+<summary xml:lang="vi">Để duyệt các trang web</summary>
+<summary xml:lang="zh_CN">浏览互联网</summary>
+<summary xml:lang="zh_TW">瀏覽網際網路</summary>
+<description>
+<p>Browse the World Wide Web</p>
+<p xml:lang="ar">تصفح الشبكة العنكبوتية العالمية</p>
+<p xml:lang="ast">Restola pela Rede</p>
+<p xml:lang="bn">ইন্টারনেট ব্রাউজ করুন</p>
+<p xml:lang="ca">Navegueu per la web</p>
+<p xml:lang="cs">Prohlížení stránek World Wide Webu</p>
+<p xml:lang="da">Surf på internettet</p>
+<p xml:lang="de">Im Internet surfen</p>
+<p xml:lang="el">Μπορείτε να περιηγηθείτε στο διαδίκτυο (Web)</p>
+<p xml:lang="es">Navegue por la web</p>
+<p xml:lang="et">Lehitse veebi</p>
+<p xml:lang="fa">صفحات شبکه جهانی اینترنت را مرور نمایید</p>
+<p xml:lang="fi">Selaa Internetin WWW-sivuja</p>
+<p xml:lang="fr">Naviguer sur le Web</p>
+<p xml:lang="gl">Navegar pola rede</p>
+<p xml:lang="he">גלישה ברחבי האינטרנט</p>
+<p xml:lang="hr">Pretražite web</p>
+<p xml:lang="hu">A világháló böngészése</p>
+<p xml:lang="it">Esplora il web</p>
+<p xml:lang="ja">ウェブを閲覧します</p>
+<p xml:lang="ko">웹을 돌아 다닙니다</p>
+<p xml:lang="ku">Li torê bigere</p>
+<p xml:lang="lt">Naršykite internete</p>
+<p xml:lang="nb">Surf på nettet</p>
+<p xml:lang="nl">Verken het internet</p>
+<p xml:lang="nn">Surf på nettet</p>
+<p xml:lang="no">Surf på nettet</p>
+<p xml:lang="pl">Przeglądanie stron WWW </p>
+<p xml:lang="pt">Navegue na Internet</p>
+<p xml:lang="pt_BR">Navegue na Internet</p>
+<p xml:lang="ro">Navigați pe Internet</p>
+<p xml:lang="ru">Доступ в Интернет</p>
+<p xml:lang="sk">Prehliadanie internetu</p>
+<p xml:lang="sl">Brskajte po spletu</p>
+<p xml:lang="sv">Surfa på webben</p>
+<p xml:lang="tr">İnternet'te Gezinin</p>
+<p xml:lang="ug">دۇنيادىكى توربەتلەرنى كۆرگىلى بولىدۇ</p>
+<p xml:lang="uk">Перегляд сторінок Інтернету</p>
+<p xml:lang="vi">Để duyệt các trang web</p>
+<p xml:lang="zh_CN">浏览互联网</p>
+<p xml:lang="zh_TW">瀏覽網際網路</p>
+</description>
+<categories>
+<category>GNOME</category>
+<category>GTK</category>
+<category>Network</category>
+<category>WebBrowser</category>
+</categories>
+<icon type="stock">firefox-esr</icon>
+<provides><binary>/opt/firefox-esr/firefox</binary></provides>
+<keywords>
+<keyword>Firefox</keyword>
+<keyword>ESR</keyword>
+<keyword>متصفح</keyword>
+<keyword>الويب</keyword>
+<keyword>فَيَرفُكْس</keyword>
+<keyword>Restolador</keyword>
+<keyword>web</keyword>
+<keyword>ফায়ারফক্স</keyword>
+<keyword>ওয়েব</keyword>
+<keyword>ব্রাউজার</keyword>
+<keyword>Navegador</keyword>
+<keyword>Webový</keyword>
+<keyword>prohlížeč</keyword>
+<keyword>internetbrowser</keyword>
+<keyword>Περιηγητής</keyword>
+<keyword>ESRi</keyword>
+<keyword>veebibrauser</keyword>
+<keyword>مرورگر</keyword>
+<keyword>اینترنتی</keyword>
+<keyword>ESR-selain</keyword>
+<keyword>Navigateur</keyword>
+<keyword>Web</keyword>
+<keyword>דפדפן</keyword>
+<keyword>האינטרנט</keyword>
+<keyword>preglednik</keyword>
+<keyword>webböngésző</keyword>
+<keyword>Browser</keyword>
+<keyword>ウェブ・ブラウザ</keyword>
+<keyword>브라우저</keyword>
+<keyword>Geroka</keyword>
+<keyword>torê</keyword>
+<keyword>interneto</keyword>
+<keyword>naršyklė</keyword>
+<keyword>Nettleser</keyword>
+<keyword>webbrowser</keyword>
+<keyword>Nettlesar</keyword>
+<keyword>Przeglądarka</keyword>
+<keyword>WWW</keyword>
+<keyword>Navigator</keyword>
+<keyword>Internet</keyword>
+<keyword>Веб-браузер</keyword>
+<keyword>internetový</keyword>
+<keyword>prehliadač</keyword>
+<keyword>spletni</keyword>
+<keyword>brskalnik</keyword>
+<keyword>webbläsare</keyword>
+<keyword>Tarayıcısı</keyword>
+<keyword>توركۆرگۈ</keyword>
+<keyword>Trình</keyword>
+<keyword>duyệt</keyword>
+<keyword>网络浏览器</keyword>
+<keyword>網路瀏覽器</keyword>
+
+</keywords>
+<screenshots>
+<screenshot type="default">
+<caption>Main window.</caption>
+<image height="450" type="source" width="800">https://screenshots.debian.net/screenshots/000/015/019/large.png</image>
+</screenshot>
+</screenshots>
+<developer_name> </developer_name>
+</component>

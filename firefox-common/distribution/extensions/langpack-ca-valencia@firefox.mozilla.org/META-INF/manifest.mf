@@ -1,0 +1,1777 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +qlH0Bw0RsutBfVhcn9HGw==
+SHA1-Digest: UC1D/YRcvbQd10DeQV072fCBPqw=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TiM3AS70JseZ14kTzokH+g==
+SHA1-Digest: lYFFX+fhw8n/b90/3t0bbHRY0oM=
+
+Name: browser/chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xduSW3rkorsP+38UhSXyKw==
+SHA1-Digest: Emj2rgYSlSxIA4CsV6oM0B7LRtk=
+
+Name: browser/chrome/ca-valencia.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IPB6WJnOikrcngVdWgbbmw==
+SHA1-Digest: yXAnB5o8F5zRMcXNss2Pflf0iv8=
+
+Name: browser/chrome/ca-valencia/locale/branding/brand.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vuqgAeauUP7SqhPJaFb6kg==
+SHA1-Digest: smn1MVJXIjGLUKgACsGIv/My8Y0=
+
+Name: browser/chrome/ca-valencia/locale/branding/brand.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: msSzEhTHUxsX8FNplLGB5g==
+SHA1-Digest: 4T0x74xI4BY5o8jeBDuvTLs0Q+g=
+
+Name: browser/chrome/ca-valencia/locale/branding/browserconfig.propertie
+ s
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hHYmpEwUI9UFgycM4oT/DQ==
+SHA1-Digest: C7CJyQFEEq+h3lT917rPfWdzH5c=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutAccounts.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DF733qMtZUV26jbih7QqXw==
+SHA1-Digest: dly+XMug+8s/2dbI3OPh2zt618o=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutDialog.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q598HxYr6nlB2GQrNXacBA==
+SHA1-Digest: KOmcV6KKnHN5Fn0X60yfZyqp3DY=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutHealthReport.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Pg/YzGT1SxtSn0TeyY4qqA==
+SHA1-Digest: bxaxzDdhJClLRDg2OeCYqHVyT1w=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutHome.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ppxzk1fz1VB4jhDKgjC/Zg==
+SHA1-Digest: Kn+KUu1Yz3c3b32pkgwagGT0m3I=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutPrivateBrowsing.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GzwIYzqgoeff/rZiSS0uwQ==
+SHA1-Digest: mAo3oKxOGjPv+EnQXcP4wL9Ra0Q=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutPrivateBrowsing.pro
+ perties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z3m7mI7nYQ7Qs3PFMkYE8g==
+SHA1-Digest: UFisicbnO6Q897IiOZMUkgb5KaQ=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutRobots.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gI0XJhF3oWqSr5XfppA92Q==
+SHA1-Digest: BtBrPDmIWM0eCkK0KaRszE1sT5A=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutSearchReset.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0L5PuvGD70jQjq9jBOA66A==
+SHA1-Digest: T3r2GBkwNYxz6kTBx3mUJDCrLl0=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutSessionRestore.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w5bf2qvEZnodzIJextuuuA==
+SHA1-Digest: ipv91tfxa2BCXPf0LKKkizrcXUc=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutSyncTabs.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WGhtKPH4tigwzk/1/S7jeA==
+SHA1-Digest: Xv2Ss2ZmccAlreMzKJF0IEQb+SA=
+
+Name: browser/chrome/ca-valencia/locale/browser/aboutTabCrashed.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dVUNBor7HEts+G+SiXpuZA==
+SHA1-Digest: w0w8ZCBA63/fwPO0OADk4knJ6nE=
+
+Name: browser/chrome/ca-valencia/locale/browser/accounts.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k0x9hWs91cuPfRkXc5Wk1A==
+SHA1-Digest: rzcj5FbpaqkdbYJcYopA5DcR1yc=
+
+Name: browser/chrome/ca-valencia/locale/browser/appstrings.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0BS78eIBnb/SQQZyf5lo5A==
+SHA1-Digest: HYc52n1N567erFhCDf9Ne2bg7A0=
+
+Name: browser/chrome/ca-valencia/locale/browser/baseMenuOverlay.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MMTgBypP80q7RXlF46rAUA==
+SHA1-Digest: kUMvoiIxDULz3f3ngDf1n3u+5MA=
+
+Name: browser/chrome/ca-valencia/locale/browser/bookmarks.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kHmfxEEp6tz3ng/bqWhwMg==
+SHA1-Digest: 3vqVuDPldmdvmvFR6pC7tzva0QM=
+
+Name: browser/chrome/ca-valencia/locale/browser/browser.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kfjhBjIT8eYF2+EvrrVGCQ==
+SHA1-Digest: DO+8DPt/y8hgyODCyOo36JLyXwI=
+
+Name: browser/chrome/ca-valencia/locale/browser/browser.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lizL/PEkhj2O9nevb9aBTQ==
+SHA1-Digest: VPO1sSgmMMavUjg2hf+iIuGuMsA=
+
+Name: browser/chrome/ca-valencia/locale/browser/engineManager.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9R+Ku8lQMvFBE2DywiSMjQ==
+SHA1-Digest: ZZnOcAQoUC9JKlKDanRSgDCc5jc=
+
+Name: browser/chrome/ca-valencia/locale/browser/lightweightThemes.proper
+ ties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dPHOKSivirZgEfYD7M6zcg==
+SHA1-Digest: riE+CXQBUNonpkTjchug7z9MDWM=
+
+Name: browser/chrome/ca-valencia/locale/browser/netError.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w6l9Am4fV9WOUqy/BvKs5g==
+SHA1-Digest: vGWIF3s+9KgR6oYcCEyRrFInRgc=
+
+Name: browser/chrome/ca-valencia/locale/browser/newTab.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9BEIK0Ha1Sclu3s4YD6scg==
+SHA1-Digest: FbQw/z1s9AK/jUx+CC5zjc2JAn0=
+
+Name: browser/chrome/ca-valencia/locale/browser/newTab.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G+Or3SYMCOT+j2lqHs/tAA==
+SHA1-Digest: woAPsCtNeWREznizJRQl9MAYdtI=
+
+Name: browser/chrome/ca-valencia/locale/browser/pageInfo.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: p/JhsJXn2xSJb2Nsnbj/bA==
+SHA1-Digest: XUYXE8Alr+kcC9RzdEm9W7hZhf0=
+
+Name: browser/chrome/ca-valencia/locale/browser/pageInfo.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: biUMz/imZv9GjuBDyH25pw==
+SHA1-Digest: RmGgRUtPONBlr5wm/qsCw/3IoC8=
+
+Name: browser/chrome/ca-valencia/locale/browser/quitDialog.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QazQdS8c+AqpKdIfUDmidA==
+SHA1-Digest: +SBSWtevqBNvojcNzQ4jfykBsak=
+
+Name: browser/chrome/ca-valencia/locale/browser-region/region.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kcVrOJPQasxFj5flfOzQKQ==
+SHA1-Digest: BxdyqS80bAdF4itosW9Zage0Z3E=
+
+Name: browser/chrome/ca-valencia/locale/browser/safeMode.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e8AWpPOmLE7sKknh6tSlvA==
+SHA1-Digest: 2SurO3Gma+d85NcxNYCP5TXjBvg=
+
+Name: browser/chrome/ca-valencia/locale/browser/sanitize.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZMmJLRtigRfGia+TW4K+dw==
+SHA1-Digest: s9nx55LgriKrED/A/7WKpOOTHjI=
+
+Name: browser/chrome/ca-valencia/locale/browser/search.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kvjBOmHsJIJQZKsfjXKOpg==
+SHA1-Digest: Qn5ABFutIsvOu7TfTooSSeMYy7Q=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchbar.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HFL2CdxIKPYNGcHSVzXEGg==
+SHA1-Digest: cGDvBdNpqwZQdjgJymS9FP0R4rE=
+
+Name: browser/chrome/ca-valencia/locale/browser/setDesktopBackground.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KGQnMvrR9MDgRQpc/ZJTnQ==
+SHA1-Digest: SBS12AMbg4yLhXVrFKK8oBWBYRw=
+
+Name: browser/chrome/ca-valencia/locale/browser/shellservice.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hCCHgonjC72Hglc+zx3qBg==
+SHA1-Digest: 1NG1z5aqJfjUpX8G4cciMz7Tf7g=
+
+Name: browser/chrome/ca-valencia/locale/browser/sitePermissions.properti
+ es
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 98yHfms6MenHbVjipVn6sQ==
+SHA1-Digest: EUbno/EKvDOcP5Z0ISI+8mttHDY=
+
+Name: browser/chrome/ca-valencia/locale/browser/syncBrand.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EUpUbGvFye6z+nBahK9pXA==
+SHA1-Digest: 1c0qKVsnbes9ENoCT3tSyBNCX7I=
+
+Name: browser/chrome/ca-valencia/locale/browser/syncCustomize.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9hTinh/HYf+ANkpRDhzjPA==
+SHA1-Digest: n5DPalWmXvoKu4GQDzzkO4Fm3wM=
+
+Name: browser/chrome/ca-valencia/locale/browser/syncGenericChange.proper
+ ties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wuwaJxtrE72rAcmtuIkwxw==
+SHA1-Digest: sxidKHkALTux8e/Tuoxpl8AX2jI=
+
+Name: browser/chrome/ca-valencia/locale/browser/syncKey.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jMZNkJgUYE5jqcp0Nd/jTw==
+SHA1-Digest: zhXigFUFitBjONY2YJbDJJPojhA=
+
+Name: browser/chrome/ca-valencia/locale/browser/syncQuota.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ho9sNhFKJl6Ey0YhgVlv7A==
+SHA1-Digest: lK+XMcTtoIRS4UD3iqRWVVrdwjE=
+
+Name: browser/chrome/ca-valencia/locale/browser/syncQuota.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 90fzI4Drztim7FPs8c2CHQ==
+SHA1-Digest: rs1+b8iphrWFDI/gpWOukvpZFGc=
+
+Name: browser/chrome/ca-valencia/locale/browser/syncSetup.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nsqt8Yd5Z/5ppVM95rDe3Q==
+SHA1-Digest: begohJhlVuOWoPS6cdMiSD2zK+E=
+
+Name: browser/chrome/ca-valencia/locale/browser/syncSetup.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6W7ihSD7b5a2HguF3woJ7g==
+SHA1-Digest: Jre/mhtPOXotQ/Qqzz4sNg11l3A=
+
+Name: browser/chrome/ca-valencia/locale/browser/tabbrowser.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YyR5Ch+VOJ0zlVhX0EZ11Q==
+SHA1-Digest: 9OkKV2azDs4ulUTMO221JmfVBNs=
+
+Name: browser/chrome/ca-valencia/locale/browser/taskbar.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8Q3VurXq2hWviOM+t0cAXg==
+SHA1-Digest: +UM1/M+VKZFoZvINWalGm45Ibwc=
+
+Name: browser/chrome/ca-valencia/locale/browser/translation.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vwocj/fPrbT+mf5XBYxEwg==
+SHA1-Digest: 9edzDf050wmxN2wVV5tZq5OKtGs=
+
+Name: browser/chrome/ca-valencia/locale/browser/translation.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FL65l1eXfrAv2foADmNWUQ==
+SHA1-Digest: XQBpSc9EpUTFjn37fuFNDTB0X3Q=
+
+Name: browser/chrome/ca-valencia/locale/browser/webrtcIndicator.properti
+ es
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L7mtKR9lY7HyPkpqULKyfw==
+SHA1-Digest: 8Kk0SoIS0K0DPtWGqoy7r5V0p14=
+
+Name: browser/chrome/ca-valencia/locale/browser/customizableui/customiza
+ bleWidgets.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hZtUdB9eO1c299YUwCWq8A==
+SHA1-Digest: ELsxXK9ft/DkJMI5mYDW7vn+TFA=
+
+Name: browser/chrome/ca-valencia/locale/browser/downloads/downloads.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eMfhkaAqm48/9pzBsebDfw==
+SHA1-Digest: 9mGHB/uFYlwLMLYz4oJCKS0jKg0=
+
+Name: browser/chrome/ca-valencia/locale/browser/downloads/downloads.prop
+ erties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lVVKUW/m8G7bf62cBPw23Q==
+SHA1-Digest: /V8qXrf/yxQFPHfHbaoP9/1jUf8=
+
+Name: browser/chrome/ca-valencia/locale/browser/downloads/settingsChange
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: K/OssPMU/+My4at84YUSRQ==
+SHA1-Digest: b77uNPBBiBornyYLX62ix77k3cw=
+
+Name: browser/chrome/ca-valencia/locale/browser/feeds/subscribe.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F2vMwbJJDCd8EQhVULPz+w==
+SHA1-Digest: 9jltPi7spZrmFOu7hDZn00PPIrs=
+
+Name: browser/chrome/ca-valencia/locale/browser/feeds/subscribe.properti
+ es
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UbE6g+bIg7H4NZCuS7Bbig==
+SHA1-Digest: by7NQ0Mk+ij1lp60CuvOhIkTgzI=
+
+Name: browser/chrome/ca-valencia/locale/browser/migration/migration.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6vt6+VlpMuzIyU9h6tGnTA==
+SHA1-Digest: H5prRK7Po0t821IZafe64ciczRY=
+
+Name: browser/chrome/ca-valencia/locale/browser/migration/migration.prop
+ erties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9fzZMClLL2mi0Jw2WisAYw==
+SHA1-Digest: fhRWaX32/u+BJosc4AoSxNcsCiM=
+
+Name: browser/chrome/ca-valencia/locale/browser/places/bookmarkPropertie
+ s.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 11YlqYGbKKQne9iRhlCRVQ==
+SHA1-Digest: wOwJNOsCxU7hG3GXjCIRrrX56J4=
+
+Name: browser/chrome/ca-valencia/locale/browser/places/editBookmarkOverl
+ ay.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KyJxeXVN6oGpHqxHJJfNtA==
+SHA1-Digest: +XRAHpeDvH0URiWGJ1zOyM5ori0=
+
+Name: browser/chrome/ca-valencia/locale/browser/places/moveBookmarks.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 68bkK4YNQO2tNUP/I24sCg==
+SHA1-Digest: jCopAtgC5sBHfhp/ZOlmTKXOqf8=
+
+Name: browser/chrome/ca-valencia/locale/browser/places/places.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u5ueX9rL58qTEj1ak3cY1w==
+SHA1-Digest: LcyHMxurwQ4HTGUvpZephAKBKVY=
+
+Name: browser/chrome/ca-valencia/locale/browser/places/places.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bfdtOHJ1Wr7XQgMPkVHIDg==
+SHA1-Digest: toSzI3mrnbQhB+ZdovmEXsWDCp0=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/advanced.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GPzngxXdlaCps0Qf+t13tw==
+SHA1-Digest: NgpRU4RzNF3JRrm6nPmz4kB8EQs=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/applicationM
+ anager.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1p6GTcxerQAsmCCjmMm3eQ==
+SHA1-Digest: rB897IlH+IJuNVzcY2hW5FTYFYA=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/applicationM
+ anager.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fHgCRvhhspJM9zXtfFbjgQ==
+SHA1-Digest: thNW3aVN9Y3TnLc6MEabV18RZCI=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/applications
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9t3zTDPAyiVxBBvex86xyQ==
+SHA1-Digest: MhFePOZG8u1/Aamnc1QhMWgyhGs=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/blocklists.d
+ td
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k65tiDG4+cVwVipieHgjSw==
+SHA1-Digest: a5JOJrnovLrQeUM+DjGiSJMNXwY=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/colors.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0rJaDR+QxO5Mj0OhqhzgZg==
+SHA1-Digest: hcnr246oEwsiLgnrHfvntK/i8/M=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/connection.d
+ td
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jmIfqXrastke+mab9KeF4Q==
+SHA1-Digest: cJQt9TMJNL7Sh5lintAjObtO4B4=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/containers.d
+ td
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OGPkZjr0R0eO681NjLNGMg==
+SHA1-Digest: tWgCCUO9sDmQqNDt+UGnqVdUHus=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/containers.p
+ roperties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L0JN7OSDYEDtm/VGp975Qg==
+SHA1-Digest: bTo+XAPoq/kPiSK8/+vdpbAekDg=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/content.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B82XWj3wNWord1GVypyD1g==
+SHA1-Digest: lFr/wwoOR8UDA/AsfwkRjLwV8O8=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/cookies.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6UtIiJK2PAQfzrsGS2NoNg==
+SHA1-Digest: Dso5cnb5stSKXtV/+h3iJOodH68=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/donottrack.d
+ td
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QYwpZYr8Pf29wulJ3qxPOQ==
+SHA1-Digest: QHcrbMJM6Ki6gRIW2S0Q5L5VbjU=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/fonts.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qQbhKE7py9FK5N3ywsbiFQ==
+SHA1-Digest: mPBZVgRzCFGNL6Jgrdg4W/Bcnnw=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/languages.dt
+ d
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z6THtA1jGmCUWVzaQbpjMA==
+SHA1-Digest: 7u/bazBrj7cVDFSbo3xU43aQgFQ=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/main.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9yo5i3R21Tv50IAyk2v1JA==
+SHA1-Digest: lk97f9baZa2YuGbmSbq6r65yooI=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/permissions.
+ dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IU0Wcy7MomiOJCnu7jkq7g==
+SHA1-Digest: iUDqg21oazzgaoAKveP/NjShM0A=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/preferences.
+ dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k7OZnbdiBO5snaO8TTgLGA==
+SHA1-Digest: ogBF4mgo71dEsXeDwm1NeEej5a0=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/preferences.
+ properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2MJDHx55ALogHYGlDdYddw==
+SHA1-Digest: tCFDqRx5LRNAOXZC9Bz7VNYZ2/Q=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/privacy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gOw3HCacae9eARYqh754vw==
+SHA1-Digest: 7xoE/2K2MYydgTd5Cl6CJmOhrA4=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/search.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9AFznLrDFXrZiHNozELI+A==
+SHA1-Digest: 90XmfS12tvua4IDAgdm4euu9zas=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/security.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wfKDRQj5kzBNitJ7c6bgLQ==
+SHA1-Digest: MGFLl9M3HI1j7yFUoQnK956nCfo=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/selectBookma
+ rk.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7Y7ikPQVT91xr5CnCHN5rQ==
+SHA1-Digest: Tcld9jIeny1D008jgS9HLGI77rI=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/sync.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3wvCUPegoNcqTRB49qwEQg==
+SHA1-Digest: DgdiBS0J0QjDOI5jvCtU+gay1Zw=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/tabs.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5j39o3NlQ9uMY2w0v1LBeg==
+SHA1-Digest: /BsxLZizdxi7Yv3XRfZ2Vo7DoX0=
+
+Name: browser/chrome/ca-valencia/locale/browser/preferences/translation.
+ dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LKTQ4AGVW43iD+wWRQyuUg==
+SHA1-Digest: QwlKTdXb+dsKN3qAh6N1h+Wkd0M=
+
+Name: browser/chrome/ca-valencia/locale/browser/safebrowsing/phishing-af
+ terload-warning-message.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5F1tyMD/w0YeqnrWolJVRw==
+SHA1-Digest: TN3sVEj46qkHXxHM5ynPbDlwo2Y=
+
+Name: browser/chrome/ca-valencia/locale/browser/safebrowsing/report-phis
+ hing.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Rm7bF8Z0Og527sel+82Mzg==
+SHA1-Digest: +Ns+uQC2aUHAYHUqInKPrZyp6jA=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/bing.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kYTAeeSk4jCZ7Qi7Owk3wA==
+SHA1-Digest: EYqXSyzlcIWKnxKo47xZbyyFi/A=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/ddg.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nJ1n0J/M+ELlU/Yty2NJdg==
+SHA1-Digest: FouQWgh2Brs5sYp4YS8Ymq7Bpaw=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/diec2.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mE/qiNBhk3VJfQxh/wkC+w==
+SHA1-Digest: Ym49NSu3vwjqdaCMp4aesJbiZr8=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/google.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dN2GubrsBlycGST8Itoniw==
+SHA1-Digest: hYgw5cPYCGRCYy7klNsHVb0NQAU=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/huubs.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WY2tujZv4z933nJWibBpwA==
+SHA1-Digest: Pns0XZVbAykTMMn94K09v0t7YnQ=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/list.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6KkkME3L+1Ruokti6Vty2g==
+SHA1-Digest: SutfnzIotLHWv55t+6ty6ibKD4k=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/list.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tMyb5uLVplA/hFgXC2b8yQ==
+SHA1-Digest: XTJDcHdjn6cBRv6K/I6HFC2S+yY=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/llibres.xm
+ l
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NvqlUaaM403X4JYDcO3hqA==
+SHA1-Digest: QnBEZTSYJf5Ehms+c6dUR/TQ6Hw=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/twitter.xm
+ l
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /DXTQwn1oIMXDfnwt0IXzw==
+SHA1-Digest: 2nTxliRjmarucZnAUU1dD2STNoU=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/wikipedia-
+ ca.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iQiAZwfVdJ4dfMV6QV0EbQ==
+SHA1-Digest: E6Ee7dqKVPC3wrLEZrfKyyFpQFs=
+
+Name: browser/chrome/ca-valencia/locale/browser/searchplugins/images/yan
+ dex-en.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ybz8NpKhNBFoSsO5XIT2dQ==
+SHA1-Digest: ly8FfUW/sgZnroBjGXtpI0khdPM=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/abou
+ tdebugging.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qgEM0qtNaUAKVByVb0/SkA==
+SHA1-Digest: t72OWZFRauyEsPYMbV219VfiKHU=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/abou
+ tdebugging.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uzNK2G4WE5xY/jhrh6u0XA==
+SHA1-Digest: ABLtYlU5crjk3qUr5Gdt+plLL1U=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/anim
+ ationinspector.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YwKGjmiOf4PN3f8Miu0IMg==
+SHA1-Digest: nIpBDK6c1p/gM8YDOK5Yc1B+QwQ=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/app-
+ manager.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NYVzZPEnaRVqzFn64ICPXA==
+SHA1-Digest: 2swwMjAlZG6+5S7xDXhG7qiiYxM=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/appc
+ acheutils.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rRnSjls32opd8xDoRZ2saQ==
+SHA1-Digest: HwYncgqAwi0MAmb8al5sL7BefYg=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/boxm
+ odel.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T025CObWDwM5Nzj4Pb/iDw==
+SHA1-Digest: 0o1fDD+IhQmNw2EGKEMk6jD++IY=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/canv
+ asdebugger.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vgyD+9tHakAYE3PgCpUIFQ==
+SHA1-Digest: a+RDIx/LvE99VwUFnlGvP+WFw9I=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/canv
+ asdebugger.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3O2UNfFWGPaV+9nyTG3Pzw==
+SHA1-Digest: Dy4A8/PwndGgOnstwQ2gSjbUv7M=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/comp
+ onents.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nlxG7vUqHmTI3zLrQpPujQ==
+SHA1-Digest: xmii09Dv3yGvI6iSPFkMKnJ9ZSA=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/conn
+ ection-screen.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 28iBSoz73+xramawumjfHQ==
+SHA1-Digest: 8JSqT0NGer+JsXipJY7m7NVFBc8=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/conn
+ ection-screen.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vQYzrP09P0DVibCeQlxNaA==
+SHA1-Digest: WK3lj6DkdU2UiROeekAIDbUYTqw=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/debu
+ gger.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: il0X+rTWzMSO1xVOY0pkmQ==
+SHA1-Digest: pP0vlJT/vkRWG4kqzpAw5AVg004=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/debu
+ gger.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v1Bi1NgJk56x37qBSWbaPA==
+SHA1-Digest: WiqyPCVsJS7c8BSMe9X6DJCtGgs=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/devi
+ ce.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uT/NqPSrLM1ijAHZxT7z2Q==
+SHA1-Digest: c8PzrCV7AG1Wt5EuUF16BUX0XSQ=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/dom.
+ properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KLbjA49yZCldy0AxbbgNHg==
+SHA1-Digest: M+78e3F1R49exGdxAukn1nN11t4=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/eyed
+ ropper.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 123UdgQlE2A1m+ERl439qg==
+SHA1-Digest: w8pXuAhnMBQwRa/jgX1qyxtzaaQ=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/filt
+ erwidget.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 14LtX/DGSPPKWJFNMrO+Zw==
+SHA1-Digest: aXwFm5yPGJSh9cgoGriQuwoTOKg=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/font
+ -inspector.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G7iN7PgA6YmdZMW7OF+UQQ==
+SHA1-Digest: lkvsqSjkH8i1PcG6A525dSzBw1w=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/grap
+ hs.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kJLnyXwJc7ZTCgQzcEP/Qw==
+SHA1-Digest: uLr2/PPsCrG9/7NvXvuh/Uvw28Q=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/har.
+ properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FP0iAaoORjmeNYwtWMz4fw==
+SHA1-Digest: W2TkgBrDuQ8F2/7gri59vEcZjg4=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/insp
+ ector.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9tiYntBqJfwieT8iZgPYzA==
+SHA1-Digest: CxMCIgKQudrTv6u99i7CvHEHvcw=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/jit-
+ optimizations.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sG+D8PJO4DY38ogWibZ5Lg==
+SHA1-Digest: 7sCfa0ZmhwOsuV5R2QRFeZN5Qeo=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/json
+ view.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hu80DXYDMpBhB1WeMWc9ng==
+SHA1-Digest: 2M3aUxVc7/HXdrkoeXCzgcFgI/w=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/layo
+ ut.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WM3fwb9k2gftAspZB39LEQ==
+SHA1-Digest: GAtBrF6mcYqVqfmG4mEa4UUCY/c=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/mark
+ ers.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2yXUo7Q4xWac3Yst5y9Rtg==
+SHA1-Digest: puJGhvEFrDA6PvU1jmDzgRBhFfE=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/memo
+ ry.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NeKY6Q8No0j3bluQ5/vIQQ==
+SHA1-Digest: zV8a5MdViyozHxCKR8G1y+MGb+Q=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/menu
+ s.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GannsSveocyZcn002X0CdQ==
+SHA1-Digest: NyCON/0bZqYIDiot4V3Jmd8tqSw=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/netm
+ onitor.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GA08pcGEmy1KUTSb+l3bAA==
+SHA1-Digest: ZIsD4sQLOXa5IbnUuX+JzN4r47U=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/perf
+ ormance.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uND1B/zJYyajaL1qQY7kZw==
+SHA1-Digest: I34/JydAzHuRVTlJ8Fk2gXIX8KA=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/perf
+ ormance.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: epNHBwrj0OsfoEWEhTPHww==
+SHA1-Digest: RBUZFxzHl6msOimIEu/zXXQSHZ8=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/proj
+ ecteditor.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: raXjwiFrlOPY2X8rl07nMQ==
+SHA1-Digest: szfICTpY18DuZLMkkiPAyJoXNoE=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/resp
+ onsive.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uSN3vcayuht4q6gsoR8G/w==
+SHA1-Digest: O9PkXtxkWxJlgqvWlrAu+PK0yZE=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/resp
+ onsiveUI.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AgsM0rlPRqCgBqTjaCnS8g==
+SHA1-Digest: I9x6F+VKAoLA5wQ5U+IfXv/Q2nE=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/scra
+ tchpad.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B//U6xNc+yTQh5nuaWvoXw==
+SHA1-Digest: LvuE1UgCZ7BXbnszD7ZOfMKMSR0=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/scra
+ tchpad.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1oBt/jWjgiV5gMgw7cMK+g==
+SHA1-Digest: lUiQBRzP3KLD3EJ/RcE1zx53FB4=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/shad
+ ereditor.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: M9ivry08JQDJHNj1mly48Q==
+SHA1-Digest: +OH72ohsH5Dxr2bL8tLg9wYlsnQ=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/shad
+ ereditor.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /UwPLsgi57AnZScImIbNOQ==
+SHA1-Digest: jUBkV8LFhkJMpFiBg40667PCQpg=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/shar
+ ed.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ruu9sEMJ++dIKnfx5oiEVw==
+SHA1-Digest: rGogUtFDLllK+Q4W69DlWNoBsp4=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/sour
+ ceeditor.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8f9Kp9zxbykuYzJYkHJyEg==
+SHA1-Digest: dG/seoxKufFOv5mW3MUT0fMDhrI=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/sour
+ ceeditor.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qm8HdjwohTRUgrYX4ckoRg==
+SHA1-Digest: x1JxaKf5t+H5m/w/MTegkZwQhmU=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/star
+ tup.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1Nnw8YPRplNb/V1HbUtOFA==
+SHA1-Digest: BpM01obITThANPqlZ2qHOyH0UpM=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/stor
+ age.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: koPyRamTa/hcBodGJ7T9Dw==
+SHA1-Digest: cKbQKM/FxpRCRjN3SbsqAWfSo5g=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/stor
+ age.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +poEn8DLv2ZlxJ2ANO+joQ==
+SHA1-Digest: bR4z0ZRh9MlVFk9LjlhvZKT0o+4=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/styl
+ eeditor.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OsQnxf4riWqogme293Zk9Q==
+SHA1-Digest: toSb+nx0vzuBBsCtqg+SfPW/8zc=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/styl
+ eeditor.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZEzBORbXpz7DCtlWGeSt4g==
+SHA1-Digest: n4uEi5DtOKvZc8oiiwFnz2xSCr8=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/tool
+ box.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: du+23XJRCd/7B2tgeYBMpg==
+SHA1-Digest: FUe//R67J0SwcITP7Y4ihosEJyg=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/tool
+ box.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Spxkcbm07th7o+aObqoeUA==
+SHA1-Digest: 260PJy85XlIPebrPypRHGJDFU/k=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/Vari
+ ablesView.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FvfanmUJU818NCkNf7hSYA==
+SHA1-Digest: Z1cVh0eXrMcqTxjfifwZ+Mnew9g=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/weba
+ udioeditor.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N9WRtyyhkOzxAvg6ByNVdw==
+SHA1-Digest: GONL7e39pwPh82sN+ACnpvbSY8c=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/weba
+ udioeditor.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f3SZYTLhu3lQgP3b5zeNzA==
+SHA1-Digest: ZM+6Q509SzAd+C5KiEQi25xmpSc=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/webC
+ onsole.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PJnXDVOp8ZN8XzjMqp/vvA==
+SHA1-Digest: g4c2pgMhAHHMr8TIsfh6XWPsdj0=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/webc
+ onsole.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rQR6cSVJ8wb0+5Wkb/ZLKg==
+SHA1-Digest: Phyd11gUhn/6U0FCGDDsaeUcRqw=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/webi
+ de.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GHxSf7DGVAZXt/mqn4i0uw==
+SHA1-Digest: 3S05XFnL/h7w4Y0C2bgPMYZTWeY=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/client/webi
+ de.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6SMF/8QkVZIpxAgYsSarxQ==
+SHA1-Digest: 9cNgnOQ0JNnyBjVSoiNcB2RxTyw=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/shared/cssc
+ overage.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xndfcH7xggGiUvRLu3udpg==
+SHA1-Digest: VgjixPftzJ++T5N/g/wGlu3EC9Y=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/shared/cssc
+ overage.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s2tc/FG1a/09FRrSEMK2FQ==
+SHA1-Digest: IAtXEcZT6xA5eJvBV5QlQiGZEFc=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/shared/debu
+ gger.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ldW/wdi/8sFz+2F2NZXbGQ==
+SHA1-Digest: QTlkThImY0Wqdvh3PbyD8ZSN/KY=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/shared/gcli
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dZm6xX5N501geaQMOLreYQ==
+SHA1-Digest: Jk7SvbwdA086BwM5SiVMyLyRxVE=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/shared/gcli
+ commands.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DuHZngF49vashtRj6OJwkQ==
+SHA1-Digest: F/De9wI5ngSas2+PLUgDEhg967o=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/shared/shar
+ ed.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L0JbzJqW13FDsMGWyDQK/Q==
+SHA1-Digest: RcUrExr7NBml62yn0vJ/ZCVUnhU=
+
+Name: browser/chrome/ca-valencia/locale/ca-valencia/devtools/shared/styl
+ einspector.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1QE4lJMDlFBzj9Wkh+OZug==
+SHA1-Digest: 9g5hv+fsNO8QCxo9C6+w/ngZ/fE=
+
+Name: browser/chrome/ca-valencia/locale/pdfviewer/chrome.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1ASbUaFC9PnSm220EvNRNg==
+SHA1-Digest: fcBuApgvSOyFF1PprhXYx7HBpzI=
+
+Name: browser/chrome/ca-valencia/locale/pdfviewer/viewer.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1/s8TcBeRL64doohgGH22g==
+SHA1-Digest: z3Hw7j/kIQl8CCA52wZj50BVysE=
+
+Name: browser/features/chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qhshw1YnyiFNsqtoW4Cdew==
+SHA1-Digest: t0+uv5bBMCTOr3P7cisSs3CMrMY=
+
+Name: browser/features/firefox@getpocket.com/ca-valencia.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4P/deBIL59M5Sdi93vw1uw==
+SHA1-Digest: v4wB0T7LtoN5pS+TO0RCn5PBXPw=
+
+Name: browser/features/firefox@getpocket.com/chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WpAJHVEeT5wGEgZHsxCzRQ==
+SHA1-Digest: M4boK01usIjFpQP+pLeZriGRTRk=
+
+Name: browser/features/firefox@getpocket.com/ca-valencia/locale/ca-valen
+ cia/pocket.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mcacpMHByg5KSH048b9Ylw==
+SHA1-Digest: v87UBx4QG+PLjsMUYCYN+Muwutw=
+
+Name: chrome/ca-valencia.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DzBKXoWPvxE9JGDbwyM1kw==
+SHA1-Digest: 1hGQ+8m5jdox5g5eBD1cTdjDQj0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/alerts/alert.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AjZ+8qUlzEO5RPaqFBo9mA==
+SHA1-Digest: zCNZGLJ5W6kv+AJ4FDN6jB4Xsrk=
+
+Name: chrome/ca-valencia/locale/ca-valencia/alerts/alert.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PvVdecbnWsLxwAUkptn08w==
+SHA1-Digest: UVv6LjEODqOJvX5KnsuxmW7tX9M=
+
+Name: chrome/ca-valencia/locale/ca-valencia/autoconfig/autoconfig.proper
+ ties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nNO1bXpCG9XB3veqmNFJOQ==
+SHA1-Digest: y66d+aTtnj6gFadzCT1qeXXOK1w=
+
+Name: chrome/ca-valencia/locale/ca-valencia/cookie/cookieAcceptDialog.dt
+ d
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Mjx1xW8fs/KSfOmd/hFCVg==
+SHA1-Digest: 7yu/RcGZ8oF4V9jxrzY671wYxWo=
+
+Name: chrome/ca-valencia/locale/ca-valencia/cookie/cookieAcceptDialog.pr
+ operties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OQKknE2D9ztRjPqxFs/BaQ==
+SHA1-Digest: J+RgbJLuDVAJ8DwzxiIymrwZVYw=
+
+Name: chrome/ca-valencia/locale/ca-valencia/formautofill/requestAutocomp
+ lete.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DdBNZqi2rJwC6Hs+1liYSg==
+SHA1-Digest: UHMb58gdnCoP0/w4iDsGeTGsqas=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/about.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +72DSKTQXoSMSmkPrZ6a8Q==
+SHA1-Digest: MMEp2imRMgw+ndBqyiYB+TllWPw=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutAbout.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RwtulOfosyY5uPzK7Ad4pA==
+SHA1-Digest: GKffMeOZEnLwO4XEOyzfqdzXg4c=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutNetworking.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U8GKbk8h5Rmngn1ZwxkzYw==
+SHA1-Digest: CBavUOUw6li0yb6Zi6WbpP/fkBk=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutProfiles.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F9WNzieJwA9oNRakHHYEcg==
+SHA1-Digest: TSDnr7XcOdhqpcjr4S8JKfesoJM=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutProfiles.propert
+ ies
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rD6kLSOJrJLbO4tfzpNUzg==
+SHA1-Digest: gAHcbQNp2K6zPs9sp7Ct7El4Ex0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutReader.propertie
+ s
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZECRY30d4GDy7bofIUfXMA==
+SHA1-Digest: 0sDEdZIse3kKKOpXId8xpVxz2Wo=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutRights.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Baemn71j14rmc0KUiUTJig==
+SHA1-Digest: ejR/xPOMbXiQI9rgJoLNi9wE3DE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutServiceWorkers.d
+ td
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7J6NqYpAUZte5eAp2JFzoA==
+SHA1-Digest: BgVJTCm/wkRSTUD/IQySPl465ao=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutServiceWorkers.p
+ roperties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pEG8cBXsCTbUFvbdLNKMrA==
+SHA1-Digest: VYL1RX4fmM6uSWZWXgaQNoHKRQI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutSupport.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IXN4ERihF3H/qMuikhwIfw==
+SHA1-Digest: RBIKVD7P3EejTVxnTCz94sq2Yfg=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutSupport.properti
+ es
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e5fCKwtChqGDzRgzIAqx+g==
+SHA1-Digest: eSoXeVxKsLn/Bu1opAm5a0tl+/c=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutTelemetry.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bmmb1ScpfttS2pnMJuUwdw==
+SHA1-Digest: xxhTKiO5cjn3lZ1FiI1GEjYmPN0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutTelemetry.proper
+ ties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BfixoQ0eYaHaSx3nsxgTAg==
+SHA1-Digest: sqsI1Gx/v+woA8D9B3mxmjPlBN0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/aboutWebrtc.propertie
+ s
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y1U/UiJXztbtiPuuJb54mA==
+SHA1-Digest: 0cl4aiyPBm9hPY772Yfn1xlSyWg=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/AccessFu.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lJfx4aj3v54rEkMW0TOLWg==
+SHA1-Digest: 6Narrha+Q0FsV75PTHc5rdLmbSA=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/appPicker.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: waO+eRgyD73Ie0x49IkUYA==
+SHA1-Digest: j/aRQIsYBrNf+Y3CWSEpZhFazbo=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/appstrings.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gYOBNqGZM8WjIVn2lymppw==
+SHA1-Digest: zbHdEae6+8dqvmId+/vE/91g68w=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/autocomplete.properti
+ es
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yWqphb6ca7hVlibrNKT7ow==
+SHA1-Digest: 6WAlFzGO2QcEtAl9mMF3h83Pe4Q=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/brand.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 28NHZM4qqgaH5KpeNNaQrA==
+SHA1-Digest: ra9d5K6tJvyFp4gISeczfHCf85k=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/browser.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VEyK3tFYVgkPVkjNsrAacw==
+SHA1-Digest: +bHmOmqUex6RU2XUl+nnd2HWn4s=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/charsetMenu.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5ZVpvcKYH91H+jIaM4S/Kg==
+SHA1-Digest: Hz+glbrdtdJ1WxvKSAx1wyB8IbY=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/charsetMenu.propertie
+ s
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jfMOJpvuxW9aH8r3xMS4ZQ==
+SHA1-Digest: 2RJSe0DmIvuBmh3GXRVQfAcJ8uk=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/commonDialog.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +J5/quZZN+J4h8f7ncX5BQ==
+SHA1-Digest: 3oV4DwOKot6Mz/Tnpo2p4hufTaE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/commonDialogs.propert
+ ies
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LIt2i9lbB4I09IRWQAiwmg==
+SHA1-Digest: fBs2MOJteP3tR/DuX6bT4x0fwt0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/config.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CVCL0nCVQTwP5uJczP4iFg==
+SHA1-Digest: pvLZgZcGYEjH/DrQZK6tJCSG0mg=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/config.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qLCExBs3irR7ps38FZOIVw==
+SHA1-Digest: P/1vejkTvTOGO5IqMd4XTnsSXbI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/contentAreaCommands.p
+ roperties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ig2F/PjiyrGX2L1aVxTaFw==
+SHA1-Digest: rYqLjgTIQTfeW2IL4Q7MqJKUhxc=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/crashes.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x3vTngAnJ4AFtLTccXMR3Q==
+SHA1-Digest: JPi/RbKI8hcWR1Tazp+Gx9UgUWQ=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/crashes.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ddOi9O0IuavWGwBffKVKug==
+SHA1-Digest: zwqtJfMqwma8txtMFBE0l1I7krA=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/css.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dOngMLj3RyNk/Jxlfj2qrQ==
+SHA1-Digest: w9jhl08zkUYquVBpDSwvYKXkuuE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/customizeToolbar.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Nbm6GxLr1tzW+Xn+NjklrQ==
+SHA1-Digest: fH5YW9WG91sEOnDpb+t5kFlWQWo=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/customizeToolbar.prop
+ erties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yH11/1E2vUfbL5P65KTz2Q==
+SHA1-Digest: lmNrupg6hliYOEJLG+ZBv7LoCaI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/dateFormat.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /8I9zGoLbhWv+6uUFHDcZA==
+SHA1-Digest: nyMU7qKWn42U4FvI4NWXzvSk5yo=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/datetimepicker.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L3txgqx6UivgzOJxKi2aKw==
+SHA1-Digest: VcpvHS+dTy3SfUGdhch/EsQ82BU=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/dialog.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tArMXqlJqDQSQI4wYzo/dw==
+SHA1-Digest: NRIXx8vEZ9ZIQycEX2I4BNjeTls=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/dialogOverlay.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B2uDCSDlkcxNHy0pciXySQ==
+SHA1-Digest: 7XUp6zhpbyercuIhDtb11JvGCe0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/editMenuOverlay.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Wf/Ll6XdyTO4vHyfHi28CQ==
+SHA1-Digest: ZCpxRtbZdnwRAGM6YsZVO2RmwJE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/extensions.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tgYv8TSgaqFqkLf3RkII3Q==
+SHA1-Digest: SRKYNYtTvmoHcHN+AINvJVGDQiI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/fallbackMenubar.prope
+ rties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /JFq/Dv70Yk4WgRYw9CH/w==
+SHA1-Digest: CRud7kCPH3922klGTiM6CEHgbvQ=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/filefield.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SVrx3hHLTnAdelJ5I5hVuQ==
+SHA1-Digest: NRmoqXwX5+TtJBxy8/lap6nyiXs=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/filepicker.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5vsbPoXqznaTdAGvZuAMRQ==
+SHA1-Digest: Q8WPT5Bv+aeYepSPXLAtJ0LQTB4=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/filepicker.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vNNvrcMTEmLjaGrADEDi5Q==
+SHA1-Digest: erbLeLktvMpNB9IpsZIRDZGo/Jg=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/findbar.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7NRSIW0LpPtX/EnJf1yTyg==
+SHA1-Digest: IRlvdovX+SDwqcyOiMgnhnnyKXo=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/findbar.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fPZWXAFyw8B57i7Iw7wG4A==
+SHA1-Digest: zXDCumyieob5qBCC6aqTPjiCXEk=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/finddialog.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7vHOqrg8hsUWm4dg9HNlLQ==
+SHA1-Digest: lulv7SEqk470ZCKoO7nA0lyJy9U=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/finddialog.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /A9sWJBuWv2WaWWxVpeTmA==
+SHA1-Digest: LKP1du7gNfaPrsY8PzZxbBpWOrA=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/global-strres.propert
+ ies
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XPPGYlDV+9Rkt/3NDfZnHw==
+SHA1-Digest: 3FI1ieitF+SpSH2UiY8Ge1NgB28=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/global.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vc0laeaRuAyrKLjn9c85Gg==
+SHA1-Digest: hJWrpUgioFSNlpe5uXN4N8MN1ro=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/globalKeys.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bywABCB5DmIqBMkamtA9xQ==
+SHA1-Digest: 8To8RVCz3rTWQHJkm3w/PjkmIT4=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/headsUpDisplay.proper
+ ties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dM6zwjIivlxm1slbVzsm+g==
+SHA1-Digest: Hcgin/Wp1ZUzDSNHfOKMflQxFTY=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/intl.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xjIqqZblEU7sGnI3cx0J5g==
+SHA1-Digest: VZkhVGtYpH33P84LRX9H+neqQao=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/intl.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bZrCL7arFhl/ZC2YcAVsbQ==
+SHA1-Digest: MTG7hF8PvfsNtyox7sPTr78XwG0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/keys.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7+BxQ0eiBbJiNooB9LEU3w==
+SHA1-Digest: 2D4bz+uMg7Qve/7Fvz3+u8xvGUQ=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/languageNames.propert
+ ies
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HQOCqQpElaw5gbuyuJkjKw==
+SHA1-Digest: 5lbIU/aPBdphDhUzXThpZzlKA84=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/layout_errors.propert
+ ies
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: udh8YiMfOnhrkPaCNX+upw==
+SHA1-Digest: +e9NAsxEsqvCcZQauETkXunaFMI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/mozilla.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1ZFkY7dDp77qqhuySQO8/w==
+SHA1-Digest: 8HmaIGlAkGcwFgy/s9IUuwXJPk4=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/narrate.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZHjKYTxAecOQwNfqlEYvgw==
+SHA1-Digest: Mmi5F4Vqjvrycdrb7oMB0LCmg04=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/netError.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XN0Axcgmu0BGMPs94T4qAg==
+SHA1-Digest: DfAZal0RWIdJGtTeabGslUe68OI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/netErrorApp.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EelEozHxzCxGyi1CddZ3IA==
+SHA1-Digest: hncIc4EB+iXO7VYUqEJlFjKv8kU=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/notification.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XdOEh/NgfADrq2KwHO8I1A==
+SHA1-Digest: x+BN0t7resyfiMsdNlrc0v3a/sY=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/nsWebBrowserPersist.p
+ roperties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UP/4YOwzAxYv57/IW/7byQ==
+SHA1-Digest: eOK+8+6x7sI+xelzz9lGfSS1TTw=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global-platform/mac/accessib
+ le.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 59sxiSwBU5iqJ6q4C0l5Wg==
+SHA1-Digest: CRQjzxeOwBbcj5v3SLOwtWjGBQQ=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global-platform/mac/intl.pro
+ perties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MWW2EznYx0VXDyu5xqvNPQ==
+SHA1-Digest: gDohC+i0OwHKCJrXBeW487GwDYs=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global-platform/mac/platform
+ Keys.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TFHv8yiwIZlCg1rq8x2rnA==
+SHA1-Digest: 4T+iQzNkP9R35zrORG4aRv6fvPk=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global-platform/unix/accessi
+ ble.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j97Z0fCWEnLiaGkUW/aBtA==
+SHA1-Digest: MWfFcJA/Kkc+07UXSSm0SU9iXJE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global-platform/unix/intl.pr
+ operties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MWW2EznYx0VXDyu5xqvNPQ==
+SHA1-Digest: gDohC+i0OwHKCJrXBeW487GwDYs=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global-platform/unix/platfor
+ mKeys.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5+7oZTwj+E9gdW5mTOHH2w==
+SHA1-Digest: 3710mBG1g+T/K6GGpgY2HIheHNk=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global-platform/win/accessib
+ le.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j97Z0fCWEnLiaGkUW/aBtA==
+SHA1-Digest: MWfFcJA/Kkc+07UXSSm0SU9iXJE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global-platform/win/intl.pro
+ perties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MWW2EznYx0VXDyu5xqvNPQ==
+SHA1-Digest: gDohC+i0OwHKCJrXBeW487GwDYs=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global-platform/win/platform
+ Keys.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aA87y0H32irp/v25AsPm/g==
+SHA1-Digest: O4ym0vtuB6lbEmcWW8NxQfbC5c0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/plugins.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xscm7gszkVl5OLhq9O3WOA==
+SHA1-Digest: Axm6VmzzXI3fTe/W+/JK95Qs3Rg=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/preferences.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E9s//QY4yFfhSFIpz9lJpA==
+SHA1-Digest: oDEUNvAx9Lopmq2G3ZbxYUqHvvI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/printdialog.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GT/BxfCK3M4AHktoBD5XSA==
+SHA1-Digest: j3V6bHcbHQ8IlsP8P3Vp3Zq+Ja0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/printdialog.propertie
+ s
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uGFge2q3AqYAoyQoXRVuXw==
+SHA1-Digest: 2DUk5i2BLWuEsnqdOcAX7hoETaw=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/printing.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nge+wSWkP6eIjeGbc4gprA==
+SHA1-Digest: N/5wl5tH2i2kPmNiUUZMqIiKZLw=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/printjoboptions.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DmCC1knDoQY36aeyCf5u2w==
+SHA1-Digest: wZ0AjWBZjDerAYT37M1OB2vm4QE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/printPageSetup.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XsMepRdbg0s2Tr8/lGW5nQ==
+SHA1-Digest: lh23XCigBiSvkSbqexv1ejp1NZo=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/printPreview.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zP5PuaG/3BzqIpd5HaE/ew==
+SHA1-Digest: absI4S6Nt8b0KLd2luHdIvfshr8=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/printPreviewProgress.
+ dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Jg9rrqQ6PmpWJnD5oFyxSg==
+SHA1-Digest: 4cwZws4A5Xdvxz+SJjZHABWrZtM=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/printProgress.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HJuJjwQj0B36NnAD62+hJw==
+SHA1-Digest: If92iE5av9OkRmDMAcHXn/lp+Rw=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/regionNames.propertie
+ s
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SXE8wXIs3xkZWgsxXFIl4g==
+SHA1-Digest: uN+9HOZn0HxqpSIPSH0Qb3fqL+U=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/resetProfile.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WSyS1DnhUe1wvpmUKjMEbw==
+SHA1-Digest: MCtn4jXMXhcoCSYFFgJvVSMvRcE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/resetProfile.properti
+ es
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jQ5WouuBRRflXyeN45vRWA==
+SHA1-Digest: i9LrTaichVBQmFx6/JhME5p1h2E=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/textcontext.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cAt8+K8u7U6rOszH+eOJaA==
+SHA1-Digest: bcqjb+0Vsm+1aIQYuUR+R9++O7E=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/tree.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EmGCqgq4wBPHMoxkkzg7Hg==
+SHA1-Digest: OL1ZEMwbt53DbI3Fqij14ZUBGOY=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/videocontrols.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BZuMGPfpkYf3NhQEpRAM8A==
+SHA1-Digest: myWZ25ADnYzxlofzu3wxZZpAGIA=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/viewSource.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1fcY+EcvQcfxkTFX8osZNg==
+SHA1-Digest: Zv8vc/H9H4vJ7Klb3/Exfy7U190=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/viewSource.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G0yCkVybGqall6sbfkYKag==
+SHA1-Digest: pq00GeqiOc09ReJKH6TxAcH/l+U=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/wizard.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G3dZ+O6iQJg/WxrCGagD4A==
+SHA1-Digest: yGPjIXmARqnFUyXig6YZvJY92ss=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/wizard.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: baFEC8w1iRsGDoy0WEIBYw==
+SHA1-Digest: 7SwgmWdKIlZeIRzjzk24fQhzdo0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/xbl.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZwDpvVKyUBdSyoD3nJHpJQ==
+SHA1-Digest: h3nKKWJV55JZfFv/ck81lsAXLE8=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/xul.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AKbyEGWf2AGyA7mUHrwrFA==
+SHA1-Digest: Hd5ZBH/3h5cP5FLcZVznG9lG+qc=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/dom/dom.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Fyt2nIy+cRzV+UL+gVsDdg==
+SHA1-Digest: pxazJl2NCF/xTCTdZ/1qoHZavvc=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/layout/HtmlForm.prope
+ rties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b1Py9a3L61TB64eTPX3k0w==
+SHA1-Digest: kxSbGKOb8hJ4t2OpxAye2U0IKXE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/layout/htmlparser.pro
+ perties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: M10ExtaxPTpi44h8Nd9csQ==
+SHA1-Digest: H94H6NGS4DBD7CrRX66y087fbzY=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/layout/MediaDocument.
+ properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1uIpb1d0eUcExE5kg+Ta+w==
+SHA1-Digest: lo3mwecoFfTqAUQW09R3WEsj35o=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/layout/xmlparser.prop
+ erties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jdhW/IGgk16obTQLCl7IeA==
+SHA1-Digest: TIh0cLuuI+8woI+h3t00rj3anIU=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/mathml/mathml.propert
+ ies
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rS3kZydQ8sbNfxN1owvEog==
+SHA1-Digest: xAd6eyWtv1UAPguArIRySJK55OM=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/search/search.propert
+ ies
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T+Lptuxw1pmfUia4IkKBAQ==
+SHA1-Digest: xvxWRIhT6gpwh5ggi+SV8Wyz5mA=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/security/caps.propert
+ ies
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ayls60rYkbtegwYGvajGxg==
+SHA1-Digest: 7altVpDhK5G9uxyoZa1dA2CdZAI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/security/csp.properti
+ es
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WvXR5lU2QwJCg9SbqKUWQA==
+SHA1-Digest: sT26u/sVKiVXMexOa43Xo78z1BI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/security/security.pro
+ perties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NZon5slqifPJHnnFJesgww==
+SHA1-Digest: 3PBGd1XgnUHGUhUue18nvg0OiOQ=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/svg/svg.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7Bj522018C2H5f/z1kvveQ==
+SHA1-Digest: 4dTWgyau7d1uoSvLElErYZQfSeE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/xml/prettyprint.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u1/WCsnBKLvBmmQ8oaBpRw==
+SHA1-Digest: AGkCm6tFm0xjMUey3VQ1CYU3lqI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/global/xslt/xslt.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qIiIY5xyxMib+Ge7kdodLQ==
+SHA1-Digest: Gl3k8IS2X+S7nFB72eGugMD3/b4=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/downloads/downloads.
+ dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5pD1LMxnvbtTbfREXYMISw==
+SHA1-Digest: WuBLBijobwtDzG1cuH6oZeYQoE4=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/downloads/downloads.
+ properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zkyCX8hkmJ3QA/vpTvC/Eg==
+SHA1-Digest: VagRmxvUbgltvruUjtdpcqppLs8=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/downloads/settingsCh
+ ange.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9voHPWaeNaUWahEmfW5vxQ==
+SHA1-Digest: BSZmGzmqWhKvOvZN/5Q/pNa00DI=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/downloads/unknownCon
+ tentType.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nnApV43eStB2bqFCgmUYtw==
+SHA1-Digest: DBINSj01xQVgHGJh8/eA7oxAP2Y=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/downloads/unknownCon
+ tentType.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4OWF8SnZMcpgK00r0q9Eeg==
+SHA1-Digest: fXZDZdlGwaQxJXlWz8FP8wyv1hA=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/extensions/about.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v8AT1JNfA5V++usHKBdaHQ==
+SHA1-Digest: eNbhkhLR6kgHrz+72hg4hUphNBk=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/extensions/blocklist
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BQ+C1REdty8HZZe4QimgYw==
+SHA1-Digest: k/WP8U1kFponVWdMYaiSPMZOmc0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/extensions/extension
+ s.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qdFsrAqA36J6psAjGHnaSA==
+SHA1-Digest: Ta1XXO8T3aHWg/wZwUlIzPvtZEM=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/extensions/extension
+ s.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2ltvDDu2WaBaBpmCFgHz0A==
+SHA1-Digest: 0z5ZB95NqoFnUzQTISFkkizCh5o=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/extensions/newaddon.
+ dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ds9aXU0KnWy3i6mytClPAQ==
+SHA1-Digest: XAJmCBkb8IcV8Tr0CDMaEjk42No=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/extensions/newaddon.
+ properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W1UTF33kNILBWIrV3CsCRw==
+SHA1-Digest: UFyUyr9qQjlOCKE+a6XJ7pqxrEU=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/extensions/update.dt
+ d
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CLwOwZn4AOoDxZT5YUtOgg==
+SHA1-Digest: xTxk5yp+wWGVy3IpCfdZHdYXUm0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/extensions/update.pr
+ operties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uZEVNJi26Oq5//JQJLf3bw==
+SHA1-Digest: Gj2fht3bf9GH+buXqkVrAz2QBDQ=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/handling/handling.dt
+ d
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b1j6tKaWMgcOgpn2EAvpdA==
+SHA1-Digest: h2TW4o9CNi+40U8dKQD05Fh8vi0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/handling/handling.pr
+ operties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VicvN6sbGjujM5099ksKRA==
+SHA1-Digest: 7mGJ8GfC2UU6t38PX4pDYIcRIgE=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/preferences/changemp
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gVB/Hj2+h6rdjNMAfW8gkA==
+SHA1-Digest: XM0ALZwJErj3TRn7MxrSYBYmMwA=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/preferences/preferen
+ ces.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 374Mwp1C0q/cHVNeQfCr8g==
+SHA1-Digest: 5LQt67ZdEAsu1PiI4p12hFgnEF0=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/preferences/removemp
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ae1mWZhEjixKguejxdwfMA==
+SHA1-Digest: BH+dngXZUXhRfanaf4+5NbJdZis=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/profile/createProfil
+ eWizard.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CAkC3XAiI7rkMMwRqztMeg==
+SHA1-Digest: anySkOfX7iQgFrkebPIPw4tdUJo=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/profile/profileSelec
+ tion.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EX9nhA+H5E9oDa3/wSPDrg==
+SHA1-Digest: i08ZB3xZkeHS5LjtoJ+pGAou6ss=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/profile/profileSelec
+ tion.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RtUAZ2Oqpbg7uwOl6tt75A==
+SHA1-Digest: p7Zr1ERbRMwkwU/zYZN6wre8UnQ=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/update/history.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FkNwqV5f3jXVXTiNaNwsRw==
+SHA1-Digest: dAEv5gbfojj9dHFp7SxZ+QV66bM=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/update/updates.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HcRl7ra88q6FcwsrpqiZxw==
+SHA1-Digest: MgsEut55yQtoSMt8HaxNWGQBJqg=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/update/updates.prope
+ rties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qCBNqj+Yg7kbLrDaOjiLBg==
+SHA1-Digest: uQgttIWwvRsw36UjDR9fKVSfQ5Q=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/xpinstall/xpinstallC
+ onfirm.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jMmXQVlSE46gpNGhOq63/A==
+SHA1-Digest: 6XNrLAhl/pfJiXAcaUD1pM3Jj4c=
+
+Name: chrome/ca-valencia/locale/ca-valencia/mozapps/xpinstall/xpinstallC
+ onfirm.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +LCt9eZnCB0VGp6Kn0WGEA==
+SHA1-Digest: tBvbb6tbxtL9mA8mGe4JTpQXv9w=
+
+Name: chrome/ca-valencia/locale/ca-valencia/necko/necko.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rwtYgxGatOSR9qTgnNwGXQ==
+SHA1-Digest: qU3kZRRQ6xuJ9ZQl3ksfSYHP0BQ=
+
+Name: chrome/ca-valencia/locale/ca-valencia/passwordmgr/passwordManager.
+ dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +f/7XIYN9tyl2p5xrjzw+w==
+SHA1-Digest: 8XOAxQfhVFSzhZ2fG5DqDg8UtGU=
+
+Name: chrome/ca-valencia/locale/ca-valencia/passwordmgr/passwordmgr.prop
+ erties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3PpAcq1Ebmoa/AuyXuvuow==
+SHA1-Digest: IFhICFWpzrchuIz0H6je/QaMCX8=
+
+Name: chrome/ca-valencia/locale/ca-valencia/pipnss/nsserrors.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r+Fdj4JPPU/KxC+Hl2x3pw==
+SHA1-Digest: W/VyGF7az6RmWXOssVRPUpxFq7s=
+
+Name: chrome/ca-valencia/locale/ca-valencia/pipnss/pipnss.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c/M8Kquz9BgG7dLJc/itog==
+SHA1-Digest: CSntCVEPx/bGUjH0KlmyHS4832I=
+
+Name: chrome/ca-valencia/locale/ca-valencia/pippki/certManager.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1UeYntUEfkAOYMbXV94btw==
+SHA1-Digest: NyoA7rT3L0JP+crShLTR4K8Ujmc=
+
+Name: chrome/ca-valencia/locale/ca-valencia/pippki/deviceManager.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yNHLR8BLVRLHncipzvrJRg==
+SHA1-Digest: 0DvKMfWtZKhl/0tBAbE9bAB5tZ4=
+
+Name: chrome/ca-valencia/locale/ca-valencia/pippki/pippki.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L+rpGf87xfE7b/ril30L4w==
+SHA1-Digest: 2Mn3YXS2o13z7vkWOgWux7QPR+k=
+
+Name: chrome/ca-valencia/locale/ca-valencia/pippki/pippki.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3bnHMTniK8PXfiHk4REN9A==
+SHA1-Digest: nYvJ0dNtOt78CPlVl0ouj1YhWsQ=
+
+Name: chrome/ca-valencia/locale/ca-valencia/places/places.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a9IC1J3+jmnl4Xs0xN5T7A==
+SHA1-Digest: wN04qJL6E2SqgN6a8J0kkpcjRSg=
+
+Name: chrome/ca-valencia/locale/ca-valencia/pluginproblem/pluginproblem.
+ dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gxy+WaI8yWRos7QPG9RDWQ==
+SHA1-Digest: 41g2W+fYmUhccOJp4z3g6haer+A=
+
+Name: chrome/ca-valencia/locale/ca-valencia/services/errors.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Gmwlu/fW/Boc2tX6XJwJ9A==
+SHA1-Digest: f53sTBGiPXfSCa0EXkY0cw72E1E=
+
+Name: chrome/ca-valencia/locale/ca-valencia/services/sync.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LLZ4qW6kBd6mk6ex6425kg==
+SHA1-Digest: V6oMcWtPrfuyuI3vuFH2EWGDf50=
+
