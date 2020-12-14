@@ -1,3 +1,9 @@
+firefox-esr (52.9.1-5lliurex) bionic; urgency=medium
+
+  * Block addon updates
+
+ -- Juanma1980 <juanma1980@gmail.com>  Mon, 14 Dec 2020 11:45:35 +0100
+
 firefox-esr (52.9.1-4lliurex) bionic; urgency=medium
 
   * LliureX customization
